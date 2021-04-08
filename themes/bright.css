@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #00cec9;
+    --secondary-color: #636e72;
+    --text-color: var(--secondary-color);
+    --background-color: #b2bec3;
+    --global-background-color: white;
+    --general-spacing: 1rem;
+}
